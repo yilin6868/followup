@@ -134,7 +134,7 @@ followup/
 <details>
 <summary><strong>来源与第三方声明</strong></summary>
 
-页面与交互依据用户提供的[参考站](https://genjinbao-followup.chinajuan520.chatgpt.site/)还原，并完成橙色主题、手机适配和重置数据逻辑修正。相关素材与代码的原有权利和条款继续适用；React 运行时保留 MIT 许可。
+相关素材与代码的原有权利和条款继续适用；React 运行时保留 MIT 许可。
 
 详见 [THIRD_PARTY_NOTICES.md](tools/genjin/THIRD_PARTY_NOTICES.md)。宣传海报和介绍视频由项目维护者提供。
 
