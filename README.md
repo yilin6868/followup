@@ -8,7 +8,7 @@
 
 面向保险顾问的客户跟进工作台，让每次沟通都有记录，让下一步行动有着落。
 
-**[立即体验 ↗](https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=c6b547b)** · **[观看介绍](#product-video)** · **[快速上手](#quick-start)**
+**[立即体验 ↗](https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=072e945-ai)** · **[观看介绍](#product-video)** · **[快速上手](#quick-start)**
 
 `今日行动`　`客户时间轴`　`跟进建议`　`移动端适配`
 
@@ -27,7 +27,7 @@
 https://github.com/user-attachments/assets/0e32f097-5ea3-4729-9cdc-3a408cf9fe24
 
 <p align="center">
-  <a href="https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=c6b547b"><strong>打开在线演示，亲自体验 →</strong></a>
+  <a href="https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=072e945-ai"><strong>打开在线演示，亲自体验 →</strong></a>
 </p>
 
 > 视频与海报展示产品方向；当前仓库为可交互原型。页面中的跟进建议由内置规则生成，尚未接入真实 AI 模型。
@@ -82,7 +82,7 @@ https://github.com/user-attachments/assets/0e32f097-5ea3-4729-9cdc-3a408cf9fe24
 
 ## 立即开始
 
-**只想体验产品？** [点击打开在线演示](https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=c6b547b)，手机和电脑都可以访问。
+**只想体验产品？** [点击打开在线演示](https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=072e945-ai)，手机和电脑都可以访问。
 
 **想在本地运行？** 下载仓库后，直接打开 `index.html`。无需安装前端依赖，也无需配置 API Key。
 
@@ -144,5 +144,5 @@ followup/
 
 <p align="center">
   <strong>记住关键节点，把下一步留在计划里。</strong><br />
-  <a href="https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=c6b547b">体验跟进宝</a> · <a href="#product-video">再看一遍介绍</a> · <a href="#top">回到顶部 ↑</a>
+  <a href="https://sgogl91sm8dfmb051cntr.apigateway-cn-beijing.volceapi.com/?v=072e945-ai">体验跟进宝</a> · <a href="#product-video">再看一遍介绍</a> · <a href="#top">回到顶部 ↑</a>
 </p>
